@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 20px;
+}
+
+.copyright {
+    position: fixed;
+    bottom: 0;
+    background-color: aquamarine;
+    color: blueviolet;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 4px dashed blue;
+    box-shadow: 5px 5px 10px burlywood;
+margin-top: 50px;
+}
